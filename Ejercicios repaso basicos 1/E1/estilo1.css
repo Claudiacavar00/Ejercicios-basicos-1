@@ -1,0 +1,57 @@
+h1{
+    color:blue ;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+
+#primero{
+    position: absolute;
+    width: 47vw;
+    height: 60vh ;
+    background-color:rgb(248, 222, 226);
+    left: 0;
+    text-align: justify;
+    
+ 
+}
+
+#segundo{
+    position: absolute;
+    width: 47vw;
+    height: 60vh;
+    background-color:rgb(166, 239, 248);
+    right: 0px;
+    text-align: justify;
+    
+}
+
+
+footer{
+    position: absolute;
+    width: 100vw;
+    height: 20vh;
+    bottom: 0;
+    text-align: center;
+
+}
+
+#negrita{
+    font-weight: bold; 
+    color: red;
+}
+
+#cursiva{
+    font-style:italic ;
+    color: rgb(255, 0, 221);
+}
+
+#ambas{
+    font-weight: bold; 
+    font-style:italic ;
+    color: rgb(0, 102, 255);
+}

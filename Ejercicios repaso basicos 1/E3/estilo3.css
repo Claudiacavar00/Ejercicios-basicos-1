@@ -1,0 +1,10 @@
+body{
+    position: absolute;
+    width: 60vw;
+    height: 60vh;
+    left: 38vw;
+}
+
+#negrita{
+    font-weight: bold ; 
+}

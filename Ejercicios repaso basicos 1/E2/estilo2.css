@@ -1,0 +1,37 @@
+header{
+    width: 100vw;
+    height: 20vh;
+    text-align: center ;
+
+}
+
+main{
+    
+    width: 100vw;
+    height: 60vh;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+
+#imagen1{
+    width: 40vw;
+    height: 50vh;
+    position: relative;
+    margin-left: 60vh;
+
+
+}
+
+
+#imagen2{
+    width: 40vw;
+    height: 50vh;
+    position: relative;
+    margin-left: 60vh;
+}
